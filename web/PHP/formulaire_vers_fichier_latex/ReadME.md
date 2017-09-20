@@ -4,4 +4,6 @@
 
 * Serveur Web actif
 * PHP
-* texstudio sous debian apt-get install texstudio
+* texstudio
+  * sous linux : sudo apt-get install texstudio
+* Un éditeur de texte
