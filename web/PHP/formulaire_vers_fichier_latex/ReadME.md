@@ -1,4 +1,4 @@
-# Objectif : Générer un fichier .tex a partir d'un formulaire en HTML.
+# Objectif : Générer un fichier .tex à partir d'un formulaire en HTML.
 
 #### Les pré-requis :
 
