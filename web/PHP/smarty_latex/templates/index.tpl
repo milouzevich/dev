@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style/style.css">
+  <head>
+  <body>
+    <h1> Formulaire générateur de fichier latex</h1>
+    <form action="traitement_vers_latex.php" method="post" >
+      <label>Nom    :</label><input type="text" name="nom"><br>
+      <label>Prénom :</label><input type="text" name="prenom"><br>
+      <label>mdp    :</label><input type="text" name="mdp"><br>
+      <input type="submit" value="valider"/>
+    </form>
+  </body>
+</html>
